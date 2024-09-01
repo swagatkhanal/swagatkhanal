@@ -1,0 +1,36 @@
+.head{
+    padding:20px;
+    display:flex;
+    justify-content: right;
+    border-bottom:1px solid black;
+margin: 5px;
+}
+.hero{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+
+
+}
+#hero-img{
+    height:200px;
+    width:300px;
+    border-radius: 50%;
+
+}
+.project{
+     display:flex;
+     gap: 20px;
+     align-items: center;
+
+
+}
+#p1{
+    width: 33.33%;
+    border:1px solid  red;
+
+}
+#img1{
+    width: 100%;
+    height: 100%;
+}
